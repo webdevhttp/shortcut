@@ -1,0 +1,16 @@
+.message1{
+    background-color: aqua;
+    font-style: italic;
+ font-size: larger;
+
+}
+.message2{
+    background-color: rgb(76, 0, 255);
+    font-style: italic;
+    font-size: larger;
+}
+.message3{
+    background-color: rgb(109, 39, 136);
+    font-style: italic; 
+    font-size: larger;
+}
